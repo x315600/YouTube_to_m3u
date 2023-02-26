@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", 中天新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677457125/ei/haL7Y7PtEI2skgbf3peQBw/ip/20.168.48.0/id/_QbRXRnHMVY.3/source/yt_live_broadcast/requiressl/yes/tx/24468618/txs/24468614%2C24468615%2C24468616%2C24468617%2C24468618/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbvEt1VUiiZ0NOeXN8QIy0-FPwcjqQMw3XJdAX-vyca8CIQCDDSx6KkP476-I3gpGkdpPQi5XfPvnN9R5L9RI6tdaLw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677467588/ei/ZMv7Y4H6FJqEhgaUqp_gCA/ip/172.176.137.177/id/_QbRXRnHMVY.3/source/yt_live_broadcast/requiressl/yes/tx/24428415/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLHAStc3jk8lW2kkXyHR_dv0u2Tl-XUEuECnq0xKFfhECIFKg9tvZaXG5x5cXOubZWDySpfOMTmTQp8pm1to9aIln/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", 2022流行歌曲
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
